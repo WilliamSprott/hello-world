@@ -13,12 +13,14 @@ body {
 .page-title {
   text-align: center;
   font-weight: 300;
+  color: RGB(0,0,0);
   background-color: RGB(42,110,187);
+  padding: 60px;
 }
 
 .page-introduction {
   border: 1px solid #000;
   margin: 2px;
   text-align: center;
-  padding: 30px;
+  padding: 60px;
 }
