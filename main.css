@@ -12,7 +12,8 @@ body {
 
 .page-title {
   text-align: center;
-  font-weight: 200;
+  font-weight: 300;
+  background-color: RGB(42,110,187);
 }
 
 .page-introduction {
