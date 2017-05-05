@@ -9,3 +9,15 @@ html, body {
 body {
   font-family: 'Lato', sans-serif;
 }
+
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+
+.page-introduction {
+  border: 1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding: 30px;
+}
