@@ -13,9 +13,9 @@ body {
 .page-title {
   text-align: center;
   font-weight: 300;
-  color: RGB(0,0,0);
+  color: RGB(255,255,255);
   background-color: RGB(42,110,187);
-  padding: 60px;
+  padding: 20px;
 }
 
 .page-introduction {
